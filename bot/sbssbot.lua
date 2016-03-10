@@ -239,7 +239,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {181742153},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
@@ -268,7 +268,7 @@ See Patterns In Github
 ]],
     help_text = [[
 
-  لیست دستورات :
+ I R A N 🔥 P O W E R لیست دستورات :
 __________________________
 اخراج [آیدی،کد،ریپلای] 
 شخص مورد نظر از گروه اخراج ميشود.
@@ -339,7 +339,14 @@ __________________________
 —---------------------—
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+Developer: @shayan31323
+توسعه دهنده
+
+channel:@iranpower_ch
+کانال ما
+
+I R A N 🔥 P O W E R
+
 ]]
   }
   serialize_to_file(config, './data/config.lua')
